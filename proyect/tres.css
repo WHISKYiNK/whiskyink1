@@ -1,0 +1,61 @@
+.fondo{
+    background: linear-gradient(90deg, rgb(0, 0, 0) 10%, rgb(172, 74, 202) 90%);
+
+}
+.titulo{ color: rgb(252, 233, 255);
+    font-size: 500%;
+    font-family: fantasy;
+    }
+.texto{
+    color: rgb(233, 207, 250);
+    font-size: 300%;
+    font-style: oblique;
+}
+.image{
+    height: 99px;
+    width: 99px;
+}
+.image2{
+    width: 250px;
+    height: 250px;
+}
+.image3{
+    width: 250px;
+    height: 350px;
+}
+.texto2{
+    color: rgb(246, 218, 242);
+    font-size: 200%;
+    font-style: oblique;
+}
+.texto3{
+    color: rgb(250, 95, 255);
+    font-size: 250%;
+    font-style: oblique;
+}
+.texto4{
+    color: rgb(251, 232, 251);
+    font-size: 150%;
+    font-style: oblique;
+}
+.barra{
+    width: 900px;
+    color: cornflowerblue;
+}
+.agregados{
+    color: rgb(251, 242, 251);
+    font-size: 150%;
+    font-style: oblique;
+}
+.barra2{
+    width: 300px;
+    color: cornflowerblue
+}
+.button{
+    background-color: rgb(240, 200, 255);
+ width: 500px;
+ height: 60px;
+ bottom: 60%;
+    }
+
+    
